@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Oracle Cloud Infrastructure, Java, Python**
 - 👨‍💻 Projects: https://devaruppula-abhiram.netlify.app/
 - 📫 Email: **devaruppulaabhiram71@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1HT1JIvQF2nlCXRQCJ9HZTCA3SVKUmPhX/view
+- 📄 Resume: 👉https://drive.google.com/file/d/1HT1JIvQF2nlCXRQCJ9HZTCA3SVKUmPhX/view
 - ⚡ Fun fact: I think I’m funny and collaborative
 
 ---
